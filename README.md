@@ -21,7 +21,7 @@ For testing we use the Acceptor mock [FIXimulator](http://fiximulator.org/). ðŸ–
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/Achraf-Hasbi/quickfixj.git
+git clone https://github.com/Achraf-Hasbi/quickfixj-initiator.git
 cd quickfixj
 
 # 2. Fire up FIXimulator
